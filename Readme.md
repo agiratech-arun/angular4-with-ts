@@ -14,3 +14,4 @@
     npm start
 
 ```
+note tslint rules are formed based on https://palantir.github.io/tslint/rules/
